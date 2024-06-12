@@ -4,3 +4,7 @@
  
  #For Running Kafka locally
 .\bin\windows\kafka-server-start.bat .\config\server.properties 
+
+//Api
+
+http://localhost:8080/rest/api/producer?message=HelloCoders
