@@ -1,0 +1,6 @@
+ 
+ #For running ZooKeeper Locally
+ .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+ 
+ #For Running Kafka locally
+.\bin\windows\kafka-server-start.bat .\config\server.properties 
